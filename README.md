@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src="https://imgbox.com/UPdzHVWI" width="100%">
+  <a href="https://imgbox.com/UPdzHVWI" target="_blank"><img src="https://thumbs2.imgbox.com/8f/47/UPdzHVWI_t.png" alt="image host"/></a width="100%">
 </p>
 
 ## 🚀 Tecnologias
