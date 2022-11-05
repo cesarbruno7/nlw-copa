@@ -18,7 +18,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 <br>
 
 <p align="center">
-  <img alt="Calendário da Copa" src=".github/capa.jpg" width="100%">
+  <img alt="Calendário da Copa" src=".github/capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa, é um projeto que mostra os jogos da Copa de 2022: os times que vão se enfrentar em cada fase, e o nome de cada grupo.
+O Calendário da Copa, é um projeto que mostra os jogos da Copa de 2022 e os times que vão se enfrentar em cada fase.
 
 ## 🔖 Layout
 
@@ -43,4 +43,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com by Bruno :wave:
+Feito by Bruno Brandão :wave:
